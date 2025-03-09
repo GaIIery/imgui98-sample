@@ -1,0 +1,3 @@
+[submodule "thirdparty/imgui98"]
+	path = thirdparty/imgui98
+	url = https://github.com/jqntn/imgui98.git
